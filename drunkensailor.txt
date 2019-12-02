@@ -22,5 +22,6 @@ Early in the morning.
 
 blueberry
 blackberry
+strawberry
 
 
