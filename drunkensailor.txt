@@ -23,8 +23,3 @@ Early in the morning.
 blueberry
 blackberry
 strawberry
-
-blueberry
-blackberry
-strawberry
-
